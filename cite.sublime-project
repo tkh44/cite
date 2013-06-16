@@ -1,0 +1,21 @@
+{
+	"folders":
+	[
+		{
+			"path": "/Users/kye/Dropbox/github/cite"
+		}
+	],
+    "settings":
+    {
+        "SublimeLinter":
+        {
+            "browser": true,
+            "indent": 4,
+            "quotmark": "single",
+            "predef": [
+                "require",
+                "module"
+            ]
+        }
+    }
+}

@@ -1,0 +1,1395 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"inject",
+				"injectFTP"
+			],
+			[
+				"base",
+				"basedir"
+			],
+			[
+				"mo",
+				"Model"
+			],
+			[
+				"ex",
+				"extends	@extends"
+			],
+			[
+				"define",
+				"defineProperty"
+			],
+			[
+				"this",
+				"thisObj"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"new",
+				"new_faa_node"
+			],
+			[
+				"set",
+				"setFAAPageData"
+			],
+			[
+				"Fa",
+				"FAA"
+			],
+			[
+				"sort",
+				"sorted_faa"
+			],
+			[
+				"index",
+				"indexOf"
+			],
+			[
+				"init",
+				"initializer"
+			],
+			[
+				"update",
+				"updatePageCount"
+			],
+			[
+				"curr",
+				"current_page"
+			],
+			[
+				"current",
+				"currentFaa"
+			],
+			[
+				"find",
+				"findCurrentPage"
+			],
+			[
+				"NV",
+				"NVDATA_KEY"
+			],
+			[
+				"cookie",
+				"cookieFaa"
+			],
+			[
+				"expires",
+				"expires_date"
+			],
+			[
+				"updat",
+				"updatePageCount"
+			],
+			[
+				"injec",
+				"injectFaa"
+			],
+			[
+				"Cate",
+				"Category"
+			],
+			[
+				"cato",
+				"categories"
+			],
+			[
+				"Model",
+				"ModelList"
+			],
+			[
+				"mod",
+				"ModelList"
+			],
+			[
+				"categor",
+				"categories"
+			],
+			[
+				"side",
+				"sidebarList"
+			],
+			[
+				"sidebar",
+				"sidebarJSON"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"cate",
+				"categories"
+			],
+			[
+				"sortab",
+				"sortable"
+			],
+			[
+				"page",
+				"pageRanks"
+			],
+			[
+				"par",
+				"parseRawFaa"
+			],
+			[
+				"in",
+				"initialize"
+			],
+			[
+				"faa",
+				"faa_data"
+			],
+			[
+				"CP",
+				"CPANEL"
+			],
+			[
+				"inc",
+				"incrementCount"
+			],
+			[
+				"pos",
+				"pos-r	position: relative;"
+			],
+			[
+				"tran",
+				"transparent"
+			],
+			[
+				"border",
+				"border-top"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"category",
+				"category_selector"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"model",
+				"Model"
+			],
+			[
+				"ad",
+				"addFilter"
+			],
+			[
+				"js",
+				"JavaScript"
+			],
+			[
+				"trans",
+				"transitions"
+			],
+			[
+				"transi",
+				"transition"
+			],
+			[
+				"form",
+				"formSubmit"
+			],
+			[
+				"Account",
+				"Account"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"custo",
+				"customValidator"
+			],
+			[
+				"copi",
+				"copied_pw"
+			],
+			[
+				"validatio",
+				"validationRanCount"
+			],
+			[
+				"disable",
+				"disabledValidators"
+			],
+			[
+				"reset",
+				"resetField"
+			],
+			[
+				"check",
+				"checkbox"
+			],
+			[
+				"limit",
+				"limitTextBox"
+			],
+			[
+				"setup",
+				"setupForm"
+			],
+			[
+				"save",
+				"savedValue"
+			],
+			[
+				"validatorSt",
+				"removeValidatorStyles"
+			],
+			[
+				"hide",
+				"hideValidatorOutput"
+			],
+			[
+				"remove",
+				"removeValidatorStyles"
+			],
+			[
+				"temp",
+				"templateName"
+			],
+			[
+				"clear",
+				"clearNotices"
+			],
+			[
+				"create",
+				"createNotice"
+			],
+			[
+				"add",
+				"addItem"
+			],
+			[
+				"numeric",
+				"numericLimit"
+			],
+			[
+				"curre",
+				"currentTarget"
+			],
+			[
+				"mar",
+				"markerLabelFunction"
+			],
+			[
+				"dis",
+				"diskavailable"
+			],
+			[
+				"action",
+				"action-button"
+			],
+			[
+				"yui",
+				"yuidocmethod	YUIDocMethod"
+			],
+			[
+				"prot",
+				"prototype"
+			],
+			[
+				"maske",
+				"maskWrapper"
+			],
+			[
+				"mask",
+				"maskWrapper"
+			],
+			[
+				"load",
+				"loaderTemplate"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"list",
+				"list-item-container"
+			],
+			[
+				"setupLis",
+				"setupListEvents"
+			],
+			[
+				"preve",
+				"preventDefault"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"top",
+				"top"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"max",
+				"maxAccounts"
+			],
+			[
+				"ava",
+				"available_accounts"
+			],
+			[
+				"border-top",
+				"border-top-left-radius"
+			],
+			[
+				"api",
+				"apiUnfilteredResults"
+			],
+			[
+				"tot",
+				"total_results"
+			],
+			[
+				"Acc",
+				"AccountList"
+			],
+			[
+				"stat",
+				"stats-view-template"
+			],
+			[
+				"Stat",
+				"StatsView"
+			],
+			[
+				"stats",
+				"statsView"
+			],
+			[
+				"All",
+				"All"
+			],
+			[
+				"data",
+				"dataValues"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"disk",
+				"diskquota"
+			],
+			[
+				"pager",
+				"pager_model"
+			],
+			[
+				"upda",
+				"update_total_results"
+			],
+			[
+				"link",
+				"linkTarget"
+			],
+			[
+				"defa",
+				"defaultSort"
+			],
+			[
+				"sor",
+				"sortDir"
+			],
+			[
+				"render",
+				"renderPagerPage"
+			],
+			[
+				"total",
+				"total_results"
+			],
+			[
+				"account",
+				"accountList"
+			],
+			[
+				"accoun",
+				"accountTotal"
+			],
+			[
+				"acc",
+				"accountList"
+			],
+			[
+				"so",
+				"sortMethod"
+			],
+			[
+				"_disk",
+				"_diskused"
+			],
+			[
+				"_dis",
+				"_diskquota"
+			],
+			[
+				"api_",
+				"api_data"
+			],
+			[
+				"en",
+				"encodeURIComponent"
+			],
+			[
+				"nav",
+				"navigateToManagePage"
+			],
+			[
+				"filter",
+				"filteredAccountList"
+			],
+			[
+				"cp",
+				"CPDATA"
+			],
+			[
+				"sot",
+				"sortBy"
+			],
+			[
+				"accou",
+				"accountList"
+			],
+			[
+				"A",
+				"ATTRS"
+			],
+			[
+				"rand",
+				"randomString"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"over",
+				"overflow:   (property)"
+			],
+			[
+				"email",
+				"emailac_counts_count"
+			],
+			[
+				"cpdat",
+				"CPDATA"
+			],
+			[
+				"Pops",
+				"PopsPageView"
+			],
+			[
+				"CPANEL",
+				"CPANEL"
+			],
+			[
+				"Accou",
+				"AccountView"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/kye/Library/Application Support/Sublime Text 2/Packages/User/SublimeLinter.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 10695,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "/*---------------------\n    :: Cite\n    -> model\n---------------------*/\nmodule.exports = {\n\n    attributes  : {\n        title: 'STRING',\n        body: {\n            type: 'STRING',\n            defaultValue: 'Type something here'\n        owner:\n\n        // Simple attribute:\n        // name: 'STRING',\n\n        // Or for more flexibility:\n        // phoneNumber: {\n        //  type: 'STRING',\n        //  defaultValue: '555-555-5555'\n        // }\n        \n    }\n\n};",
+			"file": "api/models/Cite.js",
+			"file_size": 333,
+			"file_write_time": 1371179922000000,
+			"settings":
+			{
+				"buffer_size": 465,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/make-generated-files.sublime-build",
+	"command_palette":
+	{
+		"height": 327.0,
+		"selected_items":
+		[
+			[
+				"package",
+				"Package Control: Disable Package"
+			],
+			[
+				"disable",
+				"SublimeCodeIntel: Disable Plugin"
+			],
+			[
+				"tern",
+				"TernJS: Reload"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"pretty",
+				"HTMLPrettify: Prettify"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			],
+			[
+				"sftp",
+				"SFTP: Browse Server…"
+			],
+			[
+				"remote",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"SFTP",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"sft",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"esftp",
+				"Preferences: SFTP Settings"
+			],
+			[
+				"prett",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"sftp re",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"brow",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"notice",
+				"SublimeCodeIntel: Disable Live Autocompletion for Current Language"
+			],
+			[
+				"remot",
+				"BracketHighlighter: Remove Brackets"
+			]
+		],
+		"width": 442.0
+	},
+	"console":
+	{
+		"height": 348.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/kye/Dropbox/github/cite/api/models/Cite.js",
+		"/Users/kye/Dropbox/github/cite/cite.sublime-project",
+		"/Users/kye/Dropbox/github/cite/config/routes.js",
+		"/Users/kye/Dropbox/github/cite/app.js",
+		"/Users/kye/Dropbox/github/cite/.gitignore",
+		"/Users/kye/Dropbox/github/peek/package.json",
+		"/Users/kye/Dropbox/github/peek/config/application.js",
+		"/Users/kye/Dropbox/github/peek/api/policies/authenticated.js",
+		"/Volumes/cpanel/Cpanel/Ftp.pm",
+		"/Volumes/cpanel/base/frontend/x4/branding/index.js",
+		"/Volumes/cpanel/base/frontend/x4/branding/index.html",
+		"/Volumes/cpanel/base/frontend/x4/branding/index.css",
+		"/Volumes/cpanel/base/frontend/x4/_assets/controls/sidebar/sidebar.tt",
+		"/Volumes/cpanel/base/frontend/x4/_assets/controls/sidebar/sidebar.css",
+		"/Volumes/cpanel/base/frontend/x4/_assets/controls/sidebar/sidebar.js",
+		"/Volumes/cpanel/base/frontend/x4/_assets/cjt/ui/plugins/faa/faa.js",
+		"/Volumes/cpanel/base/frontend/x4/_assets/yui_config.js",
+		"/Volumes/cpanel/base/frontend/x4/test/nvdata.test.tmpl",
+		"/Volumes/cpanel/base/frontend/x4/_assets/cjt/io/nvdata.js",
+		"/Volumes/cpanel/base/frontend/x4/_assets/cjt/io/nvdata-manager.js",
+		"/Volumes/cpanel/base/frontend/x4/_assets/cjt/ui/plugins/password_generator/password-generator.js",
+		"/Volumes/cpanel/base/frontend/x4/_assets/controls/password/password.js",
+		"/Volumes/cpanel/base/frontend/x4/_assets/controls/password/password.tmpl",
+		"/Volumes/cpanel/base/frontend/x4/mail/pops.tmpl",
+		"/Volumes/cpanel/base/frontend/x4/passwd/changepass.js",
+		"/Volumes/cpanel/base/frontend/x4/branding/stdheader.html",
+		"/Volumes/cpanel/base/frontend/x4/branding/stdmheader.html",
+		"/Volumes/cpanel/base/frontend/x4/_assets/inner-app-common.css",
+		"/Volumes/cpanel/base/frontend/x4/_assets/plugins/object-watch.js",
+		"/Volumes/cpanel/base/frontend/x4/_assets/common.css",
+		"/Volumes/cpanel/base/frontend/x4/_assets/cjt/util/object-watch.js",
+		"/Volumes/cpanel/base/frontend/x4/_assets/faa.js",
+		"/Volumes/cpanel/Cpanel/NVData.pm",
+		"/Volumes/cpanel/base/frontend/x4/Makefile",
+		"/Volumes/cpanel/base/frontend/x4/mail/pops.html",
+		"/Volumes/cpanel/base/frontend/x4/_assets/cjt/ui/plugins/tooltip/tooltip.js",
+		"/Volumes/cpanel/base/frontend/x4/_assets/cjt/ui/plugins/plugin.js",
+		"/Volumes/cpanel/base/frontend/x4/addon/index.js",
+		"/Volumes/cpanel/base/frontend/x4/x4.sublime-project",
+		"/Users/kye/Library/Application Support/Sublime Text 2/Packages/SublimeCodeIntel/Base File.sublime-settings",
+		"/Volumes/cpanel/base/frontend/x4/mail/pops.js",
+		"/Volumes/cpanel/base/frontend/x4/addon/index.tmpl",
+		"/Volumes/cpanel/base/frontend/x4/subdomain/index.js",
+		"/Volumes/cpanel/base/frontend/x4/_assets/plugins/filter/filter.css",
+		"/Volumes/cpanel/base/frontend/x4/branding/webmail.tmpl",
+		"/Volumes/cpanel/base/frontend/x4/preferences/save_contact_info.tmpl",
+		"/Volumes/cpanel/base/frontend/x4/branding/stdfooter.html",
+		"/Volumes/cpanel/base/frontend/x4/passwd/index.js",
+		"/Volumes/cpanel/base/frontend/x4/preferences/change_language.js",
+		"/Volumes/cpanel/base/frontend/x4/preferences/update_contact_info.js",
+		"/Volumes/cpanel/base/frontend/x4/passwd/index.html",
+		"/Volumes/cpanel/base/frontend/x4/preferences/change_language.html",
+		"/Volumes/cpanel/base/frontend/x4/preferences/shortcuts.html",
+		"/Volumes/cpanel/base/frontend/x4/preferences/change_language.tmpl",
+		"/Volumes/cpanel/base/frontend/x4/preferences/shortcuts.tmpl",
+		"/Volumes/cpanel/base/frontend/x4/preferences/update_contact_info.tmpl",
+		"/Volumes/cpanel/base/frontend/x4/passwd/changepass.tmpl",
+		"/Volumes/cpanel/base/frontend/x4/passwd/index.tmpl",
+		"/Volumes/cpanel/base/frontend/x4/addon/index.html",
+		"/Volumes/cpanel/Cpanel/AddonDomain.pm",
+		"/Volumes/cpanel/Cpanel/Park.pm",
+		"/Volumes/cpanel/Cpanel/API/Ftp.pm",
+		"/Volumes/cpanel/base/frontend/x4/_assets/plugins/filter/sidebar.tt",
+		"/Volumes/cpanel/base/frontend/x4/_assets/plugins/filter/filter.js",
+		"/Volumes/cpanel/base/frontend/x4/mail/pops.css",
+		"/Volumes/cpanel/Cpanel/SubDomain.pm",
+		"/Volumes/cpanel/base/frontend/x3/addon/doadddomain.html",
+		"/Volumes/cpanel/base/frontend/x3/addon/index.html",
+		"/Volumes/cpanel/base/frontend/x3/addon/doredirectdomain.html",
+		"/Volumes/cpanel/base/frontend/x3/addon/saveredirect.html",
+		"/Volumes/cpanel/base/frontend/x4/_assets/cjt/app/mvc/views/stats-view.js",
+		"/Volumes/cpanel/base/frontend/x3/addon/confirmdodeldomain.html",
+		"/Volumes/cpanel/base/frontend/x3/addon/dodeldomain.html",
+		"/Volumes/cpanel/base/frontend/x4/_assets/styles/mvc.css",
+		"/Users/kye/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Volumes/cpanel/base/frontend/x4/_assets/cjt/ui/plugins/notify/notify.js",
+		"/Volumes/cpanel/base/frontend/x4/addon/index-min.js",
+		"/Volumes/cpanel/base/frontend/x4/index.html",
+		"/Users/kye/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/kye/Dropbox/Sublime Text 2/Packages/x4.sublime-project",
+		"/Volumes/cpanel/base/frontend/x4/_assets/cjt/ui/plugins/validator/validator.js",
+		"/Users/kye/Desktop/untitled.js",
+		"/Volumes/cpanel/base/frontend/x4/addon/addon.js",
+		"/Volumes/cpanel/base/frontend/x4/passwd/changepass-min.js",
+		"/Volumes/cpanel/base/frontend/x4/dynamicui.conf",
+		"/Volumes/cpanel/base/frontend/x4/_assets/cjt/ui/plugins/password_strength/password-strength.js",
+		"/var/folders/2p/_jtqv5896rn9pbpsdk2r3cq40000gp/T/sublime-sftp-browse-1367346928/dev_box/usr/local/cpanel/base/frontend/x4/_assets/controls/password/password.js",
+		"/var/folders/2p/_jtqv5896rn9pbpsdk2r3cq40000gp/T/sublime-sftp-browse-1367012894/dev_box/usr/local/cpanel/base/frontend/x4/_assets/cjt/ui/plugins/notify/inline-notice.html",
+		"/var/folders/2p/_jtqv5896rn9pbpsdk2r3cq40000gp/T/sublime-sftp-browse-1367010765/dev_box/usr/local/cpanel/base/frontend/x4/_assets/controls/password/password.tmpl",
+		"/var/folders/2p/_jtqv5896rn9pbpsdk2r3cq40000gp/T/sublime-sftp-browse-1367000360/dev_box/usr/local/cpanel/base/frontend/x4/_assets/cjt/ui/plugins/meterbar/meterbar.js",
+		"/var/folders/2p/_jtqv5896rn9pbpsdk2r3cq40000gp/T/sublime-sftp-browse-1366909449/dev_box/root/.bashrc",
+		"/var/folders/2p/_jtqv5896rn9pbpsdk2r3cq40000gp/T/sublime-sftp-browse-1366912281/dev_box/usr/local/cpanel/base/frontend/x4/mail/pops.js",
+		"/var/folders/2p/_jtqv5896rn9pbpsdk2r3cq40000gp/T/sublime-sftp-browse-1366928508/dev_box/home/felipe/makemail.pl",
+		"/var/folders/2p/_jtqv5896rn9pbpsdk2r3cq40000gp/T/sublime-sftp-browse-1366912356/dev_box/usr/local/cpanel/base/frontend/x4/mail/pops.tmpl",
+		"/Users/kye/Library/Application Support/Sublime Text 2/Packages/User/SFTP.errors.log",
+		"/var/folders/2p/_jtqv5896rn9pbpsdk2r3cq40000gp/T/sublime-sftp-browse-1366914447/dev_box/usr/local/cpanel/base/frontend/x4/mail/pops.css",
+		"/var/folders/2p/_jtqv5896rn9pbpsdk2r3cq40000gp/T/sublime-sftp-browse-1366926166/dev_box/usr/local/cpanel/base/frontend/x4/branding/stdheader.html",
+		"/var/folders/2p/_jtqv5896rn9pbpsdk2r3cq40000gp/T/sublime-sftp-browse-1366914524/dev_box/usr/local/cpanel/base/frontend/x4/_assets/common.css",
+		"/var/folders/2p/_jtqv5896rn9pbpsdk2r3cq40000gp/T/sublime-sftp-browse-1366914593/dev_box/usr/local/cpanel/base/frontend/x4/_assets/inner-app-common.css",
+		"/var/folders/2p/_jtqv5896rn9pbpsdk2r3cq40000gp/T/sublime-sftp-browse-1366914553/dev_box/usr/local/cpanel/base/frontend/x4/_assets/reset.css",
+		"/var/folders/2p/_jtqv5896rn9pbpsdk2r3cq40000gp/T/sublime-sftp-browse-1366914665/dev_box/usr/local/cpanel/base/frontend/x4/_assets/base-cmb.css",
+		"/var/folders/2p/_jtqv5896rn9pbpsdk2r3cq40000gp/T/sublime-sftp-browse-1366730860/dev_box/usr/local/cpanel/base/frontend/x4/mail/pops.js",
+		"/var/folders/2p/_jtqv5896rn9pbpsdk2r3cq40000gp/T/sublime-sftp-browse-1366738652/dev_box/usr/local/cpanel/base/frontend/x4/mail/pops.tmpl",
+		"/var/folders/2p/_jtqv5896rn9pbpsdk2r3cq40000gp/T/sublime-sftp-browse-1366743091/dev_box/usr/local/cpanel/base/frontend/x4/mail/pops.css",
+		"/var/folders/2p/_jtqv5896rn9pbpsdk2r3cq40000gp/T/sublime-sftp-browse-1366743110/dev_box/usr/local/cpanel/base/frontend/x4/_assets/common.css",
+		"/var/folders/2p/_jtqv5896rn9pbpsdk2r3cq40000gp/T/sublime-sftp-browse-1366743561/dev_box/usr/local/cpanel/base/frontend/x4/_assets/reset.css",
+		"/var/folders/2p/_jtqv5896rn9pbpsdk2r3cq40000gp/T/sublime-sftp-browse-1366728557/dev_box/usr/local/cpanel/base/frontend/x4/mail/pops.js",
+		"/var/folders/2p/_jtqv5896rn9pbpsdk2r3cq40000gp/T/sublime-sftp-browse-1366728611/dev_box/usr/local/cpanel/base/frontend/x4/mail/pops.css",
+		"/var/folders/2p/_jtqv5896rn9pbpsdk2r3cq40000gp/T/sublime-sftp-browse-1366728659/dev_box/usr/local/cpanel/base/frontend/x4/mail/pops.tmpl",
+		"/Users/kye/Desktop/pops.js",
+		"/var/folders/2p/_jtqv5896rn9pbpsdk2r3cq40000gp/T/sublime-sftp-browse-1365711307/dev_box/usr/local/cpanel/base/frontend/x4/_assets/3rdparty/paginator-view/paginator-view.js",
+		"/var/folders/2p/_jtqv5896rn9pbpsdk2r3cq40000gp/T/sublime-sftp-browse-1365711508/dev_box/usr/local/cpanel/base/frontend/x4/_assets/yui_config.js",
+		"/var/folders/2p/_jtqv5896rn9pbpsdk2r3cq40000gp/T/sublime-sftp-browse-1365699458/dev_box/usr/local/cpanel/base/frontend/x3/js2/mail/pops.js",
+		"/var/folders/2p/_jtqv5896rn9pbpsdk2r3cq40000gp/T/sublime-sftp-browse-1366138420/dev_box/usr/local/cpanel/base/frontend/x4/_assets/3rdparty/chosen/chosen.yui.js",
+		"/var/folders/2p/_jtqv5896rn9pbpsdk2r3cq40000gp/T/sublime-sftp-browse-1366058778/dev_box/usr/local/cpanel/base/frontend/x4/dynamicui.conf",
+		"/var/folders/2p/_jtqv5896rn9pbpsdk2r3cq40000gp/T/sublime-sftp-browse-1365634194/dev_box/usr/local/cpanel/base/frontend/x4/_assets/inner-app-common.css",
+		"/var/folders/2p/_jtqv5896rn9pbpsdk2r3cq40000gp/T/sublime-sftp-browse-1365635184/dev_box/usr/local/cpanel/base/frontend/x4/_assets/common.css",
+		"/var/folders/2p/_jtqv5896rn9pbpsdk2r3cq40000gp/T/sublime-sftp-browse-1365718643/dev_box/usr/local/cpanel/Cpanel/API/Email.pm",
+		"/var/folders/2p/_jtqv5896rn9pbpsdk2r3cq40000gp/T/sublime-sftp-browse-1366044346/dev_box/usr/local/cpanel/base/cjt2/io/nvdata-manager.js",
+		"/var/folders/2p/_jtqv5896rn9pbpsdk2r3cq40000gp/T/sublime-sftp-browse-1366044640/dev_box/usr/local/cpanel/base/cjt2/io/nvdata.js",
+		"/var/folders/2p/_jtqv5896rn9pbpsdk2r3cq40000gp/T/sublime-sftp-browse-1365543330/dev_box/usr/local/cpanel/base/frontend/x4/mail/pops.tmpl",
+		"/var/folders/2p/_jtqv5896rn9pbpsdk2r3cq40000gp/T/sublime-sftp-browse-1365699345/dev_box/usr/local/cpanel/base/frontend/x3/mail/pops.html",
+		"/var/folders/2p/_jtqv5896rn9pbpsdk2r3cq40000gp/T/sublime-sftp-browse-1365635355/dev_box/usr/local/cpanel/base/frontend/x4/_assets/styles/buttons.css",
+		"/var/folders/2p/_jtqv5896rn9pbpsdk2r3cq40000gp/T/sublime-sftp-browse-1365635326/dev_box/usr/local/cpanel/base/frontend/x4/Makefile",
+		"/var/folders/2p/_jtqv5896rn9pbpsdk2r3cq40000gp/T/sublime-sftp-browse-1365440123/dev_box/usr/local/cpanel/Cpanel/API/Email.pm",
+		"/var/folders/2p/_jtqv5896rn9pbpsdk2r3cq40000gp/T/sublime-sftp-browse-1365383493/dev_box/usr/local/cpanel/Cpanel/API/Email.pm",
+		"/var/folders/2p/_jtqv5896rn9pbpsdk2r3cq40000gp/T/sublime-sftp-browse-1365385916/dev_box/usr/local/cpanel/base/frontend/x4/_assets/plugins/validator/validator.js",
+		"/var/folders/2p/_jtqv5896rn9pbpsdk2r3cq40000gp/T/sublime-sftp-browse-1365383705/dev_box/usr/local/cpanel/base/frontend/x3/mail/addpop.html"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"",
+			"project"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"'",
+			"test",
+			"pbr",
+			"key",
+			"util",
+			"callback",
+			"injectFaa",
+			"menu-icon",
+			"#content",
+			"PAGE",
+			"reorderFAA",
+			"sortFaa(",
+			"dataUpdated",
+			"buildFilter",
+			"FAA",
+			"setCurrentPage",
+			"updatePageCount",
+			"setFAARemote",
+			"setRemote",
+			"findCurrentPage",
+			"checkFAA",
+			"\"x4_icFAA\"",
+			"setRemote",
+			"decodeFaa",
+			"encode",
+			".save",
+			".set",
+			"set",
+			"watch",
+			"categories",
+			"getCu",
+			"sidebarList",
+			"categories",
+			"page",
+			"pageJSON",
+			"parseJSON",
+			"JSON",
+			"json",
+			"initialize",
+			"nvdataStore",
+			"get",
+			"NVDATA",
+			"NVData",
+			"writeStats",
+			"NVData",
+			"nvdata",
+			"nvData",
+			"NVDATA",
+			"nvdata3",
+			"codec",
+			"remote",
+			"_config",
+			"NVDATA",
+			"nvdata",
+			"sett",
+			"getData",
+			"nvdata",
+			"cjt-faa",
+			"faaboard",
+			"faa",
+			"FAA",
+			"left",
+			"left-sidebar",
+			"left-sidegar",
+			"leftSidebar",
+			"-inner",
+			"320",
+			"0.5",
+			"#000000",
+			"box-shadow",
+			"shadow",
+			"heading",
+			"260",
+			"addon",
+			"redirect",
+			"options.data",
+			"margin-left: 25",
+			"margin-left: 25^",
+			"sidebar",
+			".item",
+			"breadcrumb_list",
+			"url",
+			"484848",
+			".item",
+			"cpanel",
+			"collapsed",
+			"result_filters",
+			"searchText",
+			"buildFilterggggg",
+			"buildFilter",
+			"search_text_attribute",
+			"searchIndex",
+			"filter-search-plugin",
+			"\n            ",
+			"'",
+			"CPANEL",
+			"VAL_NS",
+			"transition",
+			"footer",
+			"iconolink",
+			"Addon",
+			".type",
+			".path",
+			"path",
+			"model",
+			"fireLink",
+			"delete-lin",
+			"fireLink",
+			"delete-link",
+			"item",
+			"add",
+			".get(\"path\")",
+			"this.home",
+			"crumb",
+			"this.fire(\"manageAccount\"",
+			"manageAccount",
+			"ManageAccountView",
+			"Breadcrumb",
+			"Notify.replace",
+			"Notice.replace",
+			"item-success",
+			"statusConfig",
+			"  +  ",
+			"+",
+			"Breadcrumb ",
+			"StatsView",
+			"statsview",
+			"EmailSync"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"search-menu",
+			"this.getAttrs():",
+			"\"",
+			"'",
+			".get(\"value\")",
+			"evt.currentTarget",
+			"currentTarget"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/kye/Library/Application Support/Sublime Text 2/Packages/User/SublimeLinter.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 10695,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6663,
+								6577
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME",
+								"NOTE",
+								"IMPORTANT",
+								"HACK",
+								"REVIEW",
+								"XXX"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"curly": true,
+								"eqeqeq": true,
+								"forin": true,
+								"immed": true,
+								"indent": 4.0,
+								"latedef": true,
+								"newcap": true,
+								"noempty": true,
+								"nonew": true,
+								"predef":
+								[
+									"CPANEL",
+									"YAHOO",
+									"LOCALE"
+								],
+								"quotmark": "double",
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"undef": true,
+								"unused": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+								"css",
+								"coffee"
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": true,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": true,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"JavaScript YUI": "javascript",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby",
+								"YUI3 (Javascript)": "javascript"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2579.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "api/models/Cite.js",
+					"settings":
+					{
+						"buffer_size": 465,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								244,
+								244
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME",
+								"NOTE",
+								"IMPORTANT",
+								"HACK",
+								"REVIEW",
+								"XXX"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"curly": true,
+								"eqeqeq": true,
+								"forin": true,
+								"immed": true,
+								"indent": 4.0,
+								"latedef": true,
+								"newcap": true,
+								"noempty": true,
+								"nonew": true,
+								"predef":
+								[
+									"CPANEL",
+									"YAHOO",
+									"LOCALE"
+								],
+								"quotmark": "double",
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"undef": true,
+								"unused": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+								"css",
+								"coffee"
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": true,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": true,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"JavaScript YUI": "javascript",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby",
+								"YUI3 (Javascript)": "javascript"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/JavaScript YUI3/Syntaxes/YUI3 (Javascript).tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 142.0
+	},
+	"output.sftp":
+	{
+		"height": 124.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/kye/Dropbox/Sublime Text 2/Packages/x4.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 194.0,
+	"status_bar_visible": true
+}
