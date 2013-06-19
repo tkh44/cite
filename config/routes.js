@@ -57,5 +57,28 @@ module.exports.routes = {
     'delete /user/:id': {
         controller  : 'user',
         action      : 'destroy'
+    },
+    
+    // Standard RESTful routing
+    // (if index is not defined, findAll will be used)
+    'get /cite': {
+        controller  : 'cite',
+        action      : 'index'
+    },
+    'get /cite/:id': {
+        controller  : 'cite',
+        action      : 'find'
+    },
+    'post /cite': {
+        controller  : 'cite',
+        action      : 'create'
+    },
+    'put /cite/:id': {
+        controller  : 'cite',
+        action      : 'update'
+    },
+    'delete /cite/:id': {
+        controller  : 'cite',
+        action      : 'destroy'
     }
 };
